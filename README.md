@@ -1,3 +1,29 @@
+<style>
+  body {
+    background-color: #0d1117;
+    color: #c9d1d9;
+    font-family: 'Fira Code', monospace;
+    text-align: center;
+  }
+  h1, h2, h3 {
+    color: #58a6ff;
+  }
+  p {
+    font-size: 18px;
+  }
+  a {
+    color: #58a6ff;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  img {
+    border-radius: 10px;
+  }
+</style>
+
+
 ### Hi, I'm Rishan Reddy 👋
 
 **Developer | Tech Enthusiast**
