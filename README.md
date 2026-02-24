@@ -7,7 +7,7 @@
 ### 🔥 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishanreddy&layout=compact&theme=radical](https://github-readme-stats-rt.vercel.app/api/top-langs/?username=rishanreddy&layout=compact&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats-rt.vercel.app/api/top-langs/?username=rishanreddy&layout=compact&theme=radical" height="180em"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishanreddy&theme=radical" />
 </p>
 
